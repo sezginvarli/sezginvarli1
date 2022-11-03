@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezginvarli&" alt="sezginvarli" /></p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=sezginvarli1&show_icons=true&theme=gradient)
+
